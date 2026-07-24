@@ -1,0 +1,11 @@
+# Obsidian — la bóveda es la raíz del proyecto; config/caché es local a la máquina.
+# El plugin canvas-watcher se reinstala con `canvas-tool.py init` si hace falta.
+.obsidian/
+
+# Python (canvas-tool.py)
+__pycache__/
+*.pyc
+
+# SO / editor
+.DS_Store
+Thumbs.db
